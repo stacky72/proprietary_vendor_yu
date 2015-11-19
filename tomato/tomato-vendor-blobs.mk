@@ -204,7 +204,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/yu/tomato/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/yu/tomato/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
-    vendor/yu/tomato/proprietary/bin/perfd:system/bin/perfd \
+    vendor/yu/tomato/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/yu/tomato/proprietary/vendor/lib64/libqti-perfd-client.so:system/vendor/lib64/libqti-perfd-client.so \
     vendor/yu/tomato/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/yu/tomato/proprietary/vendor/lib64/libdisp-aba.so:system/vendor/lib64/libdisp-aba.so \
